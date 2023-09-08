@@ -14,3 +14,4 @@
 ## 참고 자료
 스터디의 주제는 아래 cs 질문 자료들을 참고합니다.
 - [Spring 질문 정리](https://almond-domain-5d0.notion.site/Spring-743c68693e3e4154b02732c1ec43fd2a?pvs=4)
+- [JPA 질문 정리](https://almond-domain-5d0.notion.site/JPA-a57afeb4add24e30a3f0d4782144798e?pvs=4)
