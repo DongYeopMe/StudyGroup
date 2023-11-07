@@ -10,6 +10,7 @@
 | ---- | ---------------------------------------------- |
 | 윤영 | [@Heo-y-y](https://github.com/Heo-y-y)|
 | 동엽 | [@DongYeopMe](https://github.com/DongYeopMe) |
+| 재영 | [@220SRS](https://github.com/220SRS) |
 
 ## 참고 자료
 스터디의 주제는 아래 cs 질문 자료들을 참고합니다.
