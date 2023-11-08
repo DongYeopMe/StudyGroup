@@ -13,7 +13,7 @@
 | 재영 | [@220SRS](https://github.com/220SRS) |
 
 ## 참고 자료
-스터디의 주제는 아래 cs 질문 자료들을 참고합니다.
-- [Spring 주제](https://almond-domain-5d0.notion.site/Spring-743c68693e3e4154b02732c1ec43fd2a?pvs=4)
-- [JPA 주제](https://almond-domain-5d0.notion.site/JPA-a57afeb4add24e30a3f0d4782144798e?pvs=4)
-- [네트워크 주제](https://www.inflearn.com/course/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%95%B5%EC%8B%AC%EC%9D%B4%EB%A1%A0-%EA%B8%B0%EC%B4%88/dashboard)
+스터디의 주제는 아래 컨텐츠 및 목차를 참고합니다.
+- [Spring](https://almond-domain-5d0.notion.site/Spring-743c68693e3e4154b02732c1ec43fd2a?pvs=4)
+- [JPA](https://almond-domain-5d0.notion.site/JPA-a57afeb4add24e30a3f0d4782144798e?pvs=4)
+- [네트워크](https://www.inflearn.com/course/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%95%B5%EC%8B%AC%EC%9D%B4%EB%A1%A0-%EA%B8%B0%EC%B4%88/dashboard)
